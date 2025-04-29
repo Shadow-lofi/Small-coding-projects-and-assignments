@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Hub</title>
+</head>
+<body>
+
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+
+            <article>
+                <h3>Summer Music Festival</h3>
+                <p>Join us for an unforgettable evening of music, food, and fun under the stars!<br>Date: July 20, 2025</p>
+            </article>
+
+            <article>
+                <h3>Tech Innovators Conference</h3>
+                <p>Discover the latest breakthroughs in technology and innovation at this exclusive conference.<br>Date: August 15, 2025</p>
+            </article>
+        </section>
+
+        <section id="past-events">
+            <h2>Past Events</h2>
+
+            <article>
+                <h3>Spring Art Fair</h3>
+                <p>A colorful gathering of artists showcasing their latest masterpieces.<br>Date: April 10, 2025</p>
+                <img src="https://via.placeholder.com/300x200.png?text=Spring+Art+Fair" alt="Artwork displayed at the Spring Art Fair">
+            </article>
+
+            <article>
+                <h3>Winter Charity Gala</h3>
+                <p>A glamorous evening raising funds for local charities.<br>Date: December 5, 2024</p>
+                <img src="https://via.placeholder.com/300x200.png?text=Winter+Charity+Gala" alt="Guests attending the Winter Charity Gala">
+            </article>
+        </section>
+
+    </main>
+
+</body>
+</html>
+
