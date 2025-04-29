@@ -1,0 +1,26 @@
+public class LoveProgramming {
+
+    public static void main(String[] args) {
+        String reason = "I love programming because";
+
+        String[] reasons = {
+            "it lets me build things from scratch.",
+            "I enjoy solving real-world problems.",
+            "there's always something new to learn.",
+            "I can be creative with code.",
+            "it challenges me to think logically."
+        };
+
+        System.out.println("❤️ " + reason);
+
+        for (int i = 0; i < reasons.length; i++) {
+            System.out.println((i + 1) + ". " + reasons[i]);
+        }
+
+        printSignature();
+    }
+
+    public static void printSignature() {
+        System.out.println("\nKeep coding and never stop learning! 🚀");
+    }
+}
