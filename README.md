@@ -1,2 +1,2 @@
-# Eventhub
-Just a simple small html code project
+# Small code projects
+Just simple small html code project
